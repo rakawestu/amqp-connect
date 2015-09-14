@@ -1,3 +1,5 @@
+[ ![Download](https://api.bintray.com/packages/rakawestu/rakawestu/amqp-connect/images/download.svg) ](https://bintray.com/rakawestu/rakawestu/amqp-connect/_latestVersion)
+
 # AMQP CONNECT
 Android wrapper library for publishing message to AMQP. It uses [RabbtiMQ Java Library](https://www.rabbitmq.com/java-client.html) as the base client.
 
